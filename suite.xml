@@ -1,0 +1,52 @@
+
+<!-- Names -->
+
+<test id="20061002-001">
+    <required-versions>
+        <version number="4.0"/>
+    </required-versions>
+    <expression>require(a)</expression>
+    <acceptable-results>
+        <result code="0"/>
+    </acceptable-results>
+    <references>
+        <section version="4.0" number="1.1"/>
+    </references>
+    <notes>
+        Tests both require() and attribute name
+    </notes>
+</test>
+
+<test id="">
+    <required-versions>
+        <version number="4.0"/>
+    </required-versions>
+    <expression>require()</expression>
+    <acceptable-results>
+        <result code="0"/>
+    </acceptable-results>
+    <references>
+        <section version="4.0" number="1.1"/>
+    </references>
+    <notes>
+        Commentary here
+    </notes>
+</test>
+
+<test id="">
+    <required-versions>
+        <version number="4.0"/>
+    </required-versions>
+    <expression>require(a)</expression>
+    <acceptable-results>
+        <result code="0"/>
+    </acceptable-results>
+    <references>
+        <section version="4.0" number="1.1"/>
+    </references>
+    <notes>
+        Commentary here
+    </notes>
+</test>
+
+
